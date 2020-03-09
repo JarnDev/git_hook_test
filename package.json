@@ -1,0 +1,22 @@
+{
+  "name": "git_hook_test",
+  "version": "1.0.0",
+  "description": "Test automation deployment, teste 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarn40/git_hook_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarn40/git_hook_test/issues"
+  },
+  "homepage": "https://github.com/Jarn40/git_hook_test#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
