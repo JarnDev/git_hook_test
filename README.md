@@ -1,2 +1,2 @@
 # git_hook_test
-Test automation deployment, teste 2
+Test automation deployment, teste 3
